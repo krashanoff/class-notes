@@ -1,0 +1,5 @@
+# This is just an example .gitignore. Modify or add more as you see fit.
+
+*.pdf
+*.tar.gz
+mediadir/
